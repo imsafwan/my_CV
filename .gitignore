@@ -1,0 +1,6 @@
+# Publish ONLY the compiled CV. Everything else stays local.
+*
+!.gitignore
+!README.md
+!academic_CV.pdf
+!.nojekyll
